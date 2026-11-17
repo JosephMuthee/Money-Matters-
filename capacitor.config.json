@@ -1,0 +1,8 @@
+{
+  "appId": "com.theeonset.enterprise",
+  "appName": "THEE onset Enterprise",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
